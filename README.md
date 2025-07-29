@@ -1,4 +1,4 @@
-# 🗺️ Map & Image Scanner (Streamlit App)
+# 🗺️ Map & Image Scanner
 
 A simple and interactive **Streamlit app** for visualizing **point-based geospatial data** on a **Carto Light basemap**, with support for uploading and previewing a local **image file**.
 
